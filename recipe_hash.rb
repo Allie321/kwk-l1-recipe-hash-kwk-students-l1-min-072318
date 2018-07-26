@@ -1,8 +1,8 @@
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 
-perfect_10_recipe = {:almondflour => "2_cups", 
-:gluten_freewhole_oats => "1 cup",  :kosher_salt => "1/2 tea_spoon", :baking_powder => "1/4 tea_spoon", :baking_soda => "1/4 tea_spoon", :xanthan_gum => "1/2 tea_spoon", :slivered_almonds_lightly_toasted => "1/4 cup",  :mini_dark_chocolate_chips => "3/4", :olive_oil => "1/4_cup", :agave => "1/4_cup" 
+perfect_10_recipe = {:almond_flour => "2_cups", 
+:gluten_free_whole_oats => "1 cup",  :kosher_salt => "1/2 tea_spoon", :baking_powder => "1/4 tea_spoon", :baking_soda => "1/4 tea_spoon", :xanthan_Gum => "1/2 tea_spoon", :slivered_almonds_lightly_toasted => "1/4 cup",  :mini_dark_chocolate_chips => "3/4", :olive_oil => "1/4_cup", :agave => "1/4_cup" 
   }
 
 
