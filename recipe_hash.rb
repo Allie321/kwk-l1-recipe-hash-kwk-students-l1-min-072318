@@ -2,7 +2,7 @@ recipe_hash.rb
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 
-{"almondflour" => "2 cups"}
+perfect_10_recipe = {"almondflour" => "2 cups"}
 
 
 #  - almond flour - 2 cups
